@@ -17,6 +17,7 @@ body {
   width: 100%;
   font-size: small;
   font-weight: 500;
+  z-index: 1;
 }
 #logo2{
     width:1vw;
